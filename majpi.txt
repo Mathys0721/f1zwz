@@ -1,0 +1,4 @@
+# Pour mettre à jour votre raspberry pi sur pi-star (allez dans expert et ensuite allez sur SSH) puis :
+sudo apt update && sudo apt upgrade 
+# Pour mettre à jour votre raspberry pi sur pi-star (allez dans Advanced -> Tools -> SSH Accès) puis :
+sudo apt update && sudo apt upgrade 
